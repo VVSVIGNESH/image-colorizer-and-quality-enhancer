@@ -2,3 +2,8 @@ numpy==1.23.5
 opencv-python==4.8.0.76
 pytesseract==0.13.4
 matplotlib==3.8.0
+
+pre-required packages to use the model:
+colorization_deploy_v2.prototxt
+pts_in_hull.npy
+colorization_release_v2.caffemodel
