@@ -7,5 +7,5 @@ pre-required packages to use the model:
 colorization_deploy_v2.prototxt
 pts_in_hull.npy
 Since(colorization_release_v2.caffemodel), this file is larger Than 100 MB,it can't be deposited in The repository.So, you can access that file from below:
- https://www.dropbox.com/s/dx0qvhhp5hb...
+https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1
 
