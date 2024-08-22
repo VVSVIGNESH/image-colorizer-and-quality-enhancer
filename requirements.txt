@@ -6,4 +6,6 @@ matplotlib==3.8.0
 pre-required packages to use the model:
 colorization_deploy_v2.prototxt
 pts_in_hull.npy
-colorization_release_v2.caffemodel
+Since(colorization_release_v2.caffemodel), this file is larger Than 100 MB,it can't be deposited in The repository.So, you can access that file from below:
+ https://www.dropbox.com/s/dx0qvhhp5hb...
+
