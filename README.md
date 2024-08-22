@@ -1,5 +1,8 @@
 # image-colorizer-and-quality-enhancer
 # Developed an AI-powered image processing tool that uses a Deep learning colorization model  (Caffe) with 86% accuracy to restore colors in black-and-white images. Implemented a Wiener filter-based deblurring algorithm with Fourier transforms to enhance image  clarity and used PyTesseract and OCR to extract text from image.
+# In order to run the demo, you will first need to download the pre-trained data from this location. Place the file in the folder with this readme.
+
+# https://www.dropbox.com/s/dx0qvhhp5hbcx7z/colorization_release_v2.caffemodel?dl=1
 Image Enhancer:
 This project provides an image enhancement tool that performs the following tasks:
 
