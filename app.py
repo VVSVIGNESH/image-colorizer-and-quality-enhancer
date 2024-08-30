@@ -5,7 +5,7 @@ import pytesseract
 from PIL import Image
 
 # Install Tesseract
-!sudo apt-get install tesseract-ocr
+
 
 # Set up Tesseract executable path
 pytesseract.pytesseract.tesseract_cmd = '/usr/bin/tesseract'
